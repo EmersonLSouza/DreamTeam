@@ -62,6 +62,13 @@ dotnet TimedosSonhos.dll
 ```
 Esse comando deve ser executado dentro da pasta extraída.
 
+**Exemplo**
+
+```
+C:Users/user/cd documents/downloads/dreamteam
+C:Users/user/documents/downloads/dreamteam> dotnet TimedosSonhos.dll
+```
+
 * Preferência utilizar o Prompt de Comando ou o Powershell.
 
 
